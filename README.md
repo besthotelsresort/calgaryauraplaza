@@ -1,0 +1,2 @@
+# calgaryauraplaza
+Static site: calgaryauraplaza
